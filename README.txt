@@ -1,4 +1,7 @@
 ·一个117458866249的整合包 目前在beta阶段 且只支持中文
 ·已知bug：
-在进入存档是 Masterful Machinery模组的多方块结构不会被判定 您可以在JEI中对着任意一个多方块结构的控制器按u以手动修复它们
+在进入存档时 Masterful Machinery模组的多方块结构不会被判定 您可以在JEI中对着任意一个多方块结构的控制器按u以手动修复它们
 所以您可以制作一个可以在进入存档时自动对控制器的JEI按u的mod 作者非常感谢！
+·如何安装
+下载“source code.zip”后将扩展名改为.mrpack 即“source code.mrpack”
+此后即可使用各大启动器安装！
