@@ -1,0 +1,10 @@
+{
+    "id": "gaolu_port",
+    "controllerIds": "mm:gaolu_controller",
+    "name": "大型高炉端口",
+    "type": "mm:item",
+    "config": {
+      "rows": 1,
+      "columns": 1
+    }
+  }

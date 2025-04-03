@@ -1,0 +1,10 @@
+{
+    "id": "la_to_lu_port",
+    "controllerIds": "mm:la_to_lu_go_out",
+    "name": "镧系晶化机端口",
+    "type": "mm:item",
+    "config": {
+      "rows": 1,
+      "columns": 1
+    }
+  }

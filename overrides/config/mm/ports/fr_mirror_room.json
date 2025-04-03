@@ -1,0 +1,10 @@
+{
+    "id": "fr_mirror_room_port",
+    "controllerIds": "mm:fr_mirror_room_controller",
+    "name": "漫反射云室端口",
+    "type": "mm:item",
+    "config": {
+      "rows": 1,
+      "columns": 1
+    }
+  }

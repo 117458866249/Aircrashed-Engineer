@@ -1,0 +1,8 @@
+{   
+ "type": "mm:machine",   
+ 
+ "id": "rotate_bearing_controller",  
+  
+   "name": "旋转机床控制器"
+ 
+   }

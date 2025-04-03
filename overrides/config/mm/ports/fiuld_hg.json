@@ -1,0 +1,10 @@
+{
+    "id": "fiuld_hg_port",
+    "controllerIds": "mm:fiuld_hg_controller",
+    "name": "超临界汞制备凝结处理机端口",
+    "type": "mm:item",
+    "config": {
+      "rows": 1,
+      "columns": 1
+    }
+  }

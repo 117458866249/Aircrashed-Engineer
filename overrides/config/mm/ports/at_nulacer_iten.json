@@ -1,0 +1,10 @@
+{
+    "id": "at_nulacer_su_and_fe_item_port",
+    "controllerIds": "mm:at_nulacer_su_and_fe_controller",
+    "name": "砹反应堆物品端口",
+    "type": "mm:item",
+    "config": {
+      "rows": 1,
+      "columns": 1
+    }
+  }
