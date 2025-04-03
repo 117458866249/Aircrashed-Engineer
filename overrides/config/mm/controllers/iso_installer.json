@@ -1,8 +1,0 @@
-{   
- "type": "mm:machine",   
- 
- "id": "iso_installer_controller",  
-  
-   "name": "iso刻录器控制器"
- 
-   }

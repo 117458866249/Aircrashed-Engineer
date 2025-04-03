@@ -1,9 +1,0 @@
-{
-    "id": "at_nulacer_su_port",
-    "controllerIds": "mm:at_nulacer_su_and_fe_controller",
-    "name": "砹反应堆应力端口",
-    "type": "mm:create/kinetic",
-    "config": {
-      "stress": 8192
-    }
-  }

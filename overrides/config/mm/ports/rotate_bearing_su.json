@@ -1,9 +1,0 @@
-{
-    "id": "rotate_bearing_su_port",
-    "controllerIds": "mm:rotate_bearing_controller",
-    "name": "旋转机床应力端口",
-    "type": "mm:create/kinetic",
-    "config": {
-      "stress": 2
-    }
-  }
